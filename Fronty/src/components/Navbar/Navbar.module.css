@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400&display=swap');
+
+
+.texty {
+    font-family: 'Ubuntu', sans-serif;
+     color: #fff; 
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.background {
+    background-color: #F87060;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    text-align: center;   
+}
